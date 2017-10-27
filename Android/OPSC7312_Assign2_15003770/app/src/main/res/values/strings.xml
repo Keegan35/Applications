@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Drop n Shop</string>
+    <string name="external_dir">GetSignature</string>
+    <string name="title_activity_main_nav">MainNav</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Help</string>
+    <string name="title_activity_locations">Map</string>
+</resources>

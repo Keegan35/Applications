@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tc"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context="com.ebookfrenzy.opsc7312_assign2_15003770.TC">
+
+    <Button
+        android:text="Please Click to Sign"
+        android:id="@+id/signature"
+        android:background="@drawable/btnshapesign"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="47dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Your children will be left in our capabile hands. \nDo you accept?"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:textAlignment="center"
+        android:layout_marginTop="106dp"
+        android:textColor="@android:color/white"
+        android:textAppearance="@android:style/TextAppearance.Material.Medium"
+        android:id="@+id/tvConditions" />
+
+    <TextView
+        android:text="Terms and Conditions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:id="@+id/tvTerms"
+        android:textColor="@android:color/white"
+        android:textAppearance="@android:style/TextAppearance.Material.Large" />
+
+</RelativeLayout>

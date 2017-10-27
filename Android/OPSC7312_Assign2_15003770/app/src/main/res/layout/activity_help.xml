@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_help"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.ebookfrenzy.opsc7312_assign2_15003770.Help">
+
+    <Button
+        android:text="Back"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="14dp"
+        android:id="@+id/btnBack"
+        android:textColor="@android:color/white"
+        android:background="@drawable/btnshape" />
+
+    <TextView
+        android:text="Help"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:id="@+id/tvHelp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textAppearance="@android:style/TextAppearance.Material.Large" />
+
+    <TextView
+        android:text="When the program starts you will be able to sing your child in or exit the application. There will be a navigation drawer on the main page which will have the headings about us and locations. \nOnce you click the Sign child in you will need to full in details as well as take a picture of your child and yourself. \nYou will then need to accept the Ts n Cs by writing your signature in the space provided and once you have done that a timer will start to indicate how long your child has been with us."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="29dp"
+        android:id="@+id/tvDesc"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textAppearance="@android:style/TextAppearance.Material.Medium"
+        android:layout_below="@+id/tvHelp"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
