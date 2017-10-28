@@ -1,1 +1,1 @@
-This folder will have android apps that i have created.
+This folder will have some of the android apps that i have created.

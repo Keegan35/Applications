@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Student Mark Database</string>
+
+    <string name="student_no">Student Number</string>
+    <string name="enter_student_number">Student Number:</string>
+    <string name="name">Student Name:</string>
+    <string name="student_surname">Student Surname:</string>
+    <string name="course_code">Course Code:</string>
+    <string name="course_prompt">Choose a Course:</string>
+    <string name="module_code">Module Code:</string>
+    <string name="mark_percentage">Mark Percentage:</string>
+    <string name="add_data_button">Add Data</string>
+    <string name="add_button">Add Marks</string>
+    <string name="view_button">View Marks</string>
+    <string name="enter_the_following">Please Fill In The Following Information:</string>
+    <string name="back_home">Back</string>
+    <string name="view_marks">View All</string>
+    <string name="view_data_button">View Data</string>
+    <string name="id">ID:</string>
+    <string name="update_button">Update</string>
+    <string name="delete_button">Delete</string>
+    <string name="update_mark_button">Update Marks</string>
+    <string name="delete_mark_button">Delete Marks</string>
+
+    <string-array name="course_arrays">
+        <item>DISD1</item>
+        <item>DISD2</item>
+        <item>DISD3</item>
+    </string-array>
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_help">Help</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="enter_id_to_delete">Please Enter The ID Of The Record You Want To Delete</string>
+    <string name="adding_a_value">On the main menu please swipe from the far left of the screen to the right to open the navigation drawer.</string>
+    <string name="help">Help</string>
+    <string name="adding">When you have opened the navigation drawer you just click \"Add Mark\" to add a new record by filling in the required information.</string>
+    <string name="updating">To update a record just click the \"Update Mark\" in the navigation drawer and type in the ID you want to edit and then add new information.</string>
+    <string name="viewing">To view all records click the \"View Marks\" in the navigation drawer and then view data.</string>
+    <string name="deleting">To delete a record click the \"Delete Mark\" in the navigation drawer and then type the ID of the record you want to delete.</string>
+    <string name="enter_id">Enter ID of record you want to change with new values</string>
+    <string name="student_marks">Student Marks</string>
+</resources>

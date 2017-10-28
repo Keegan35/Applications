@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Match The Picture</string>
+    <string name="title_Memory">Match The Picture</string>
+    <string name="menu_4x4_button">Easy</string>
+    <string name="menu_5x6_game">Medium</string>
+    <string name="menu_6x6_button">Hard</string>
+    <string name="menu_8x5_button">Very Hard</string>
+    <string name="button_back">Back</string>
+    <string name="text_information">The point of the game is to match the pictures with the same pictures that are given under the question mark blocks. So, you click on one block and a picture will show up and then click on another block and another picture will show up. If the pictures don’t match, then they will turn around again and if they do match then they will stay the way they are.</string>
+    <string name="help">Help</string>
+
+</resources>

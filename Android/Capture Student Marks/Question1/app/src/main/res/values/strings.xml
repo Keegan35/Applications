@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Capture Student Marks</string>
+
+    <string name="student_no">Student Number</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_student_number">Student Number:</string>
+    <string name="name">Student Name:</string>
+    <string name="student_surname">Student Surname:</string>
+    <string name="course_code">Course Code:</string>
+    <string name="course_prompt">Choose a Course:</string>
+    <string name="module_code">Module Code:</string>
+    <string name="mark_percentage">Mark Percentage:</string>
+    <string name="save_button">Save</string>
+    <string name="add_button">Add Marks</string>
+    <string name="view_button">View Marks</string>
+    <string name="enter_the_following">Please Fill In The Following Information:</string>
+    <string name="back_home">Back</string>
+    <string name="view_marks">View All</string>
+    <string name="here_is_where">Here is where you will be able to add marks and then view them</string>
+    <string name="report">Report</string>
+
+    <string-array name="course_arrays">
+        <item>DISD1</item>
+        <item>DISD2</item>
+        <item>DISD3</item>
+    </string-array>
+</resources>
