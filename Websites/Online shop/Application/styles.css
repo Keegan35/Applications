@@ -1,0 +1,34 @@
+body {
+    background-color:  #008B8B;
+    font-family: "Calibri";
+}
+
+h1 {
+    color:  #DC143C ;
+    text-align: center;
+}
+
+h3 {
+    color:  #FFF8DC ;
+    text-align: center;
+}
+
+p {
+	color: black;
+    font-size: 20px;
+    text-align: center
+}
+
+button{
+    font: 20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: black;
+        text-decoration: none;
+	background-color: cornsilk;
+	margin:auto;
+	display:block;
+}
+
+form{
+	text-align: center;
+        border-color: black;
+}

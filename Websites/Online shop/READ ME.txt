@@ -1,0 +1,9 @@
+This is my website link http://phpexampledomain.dx.am/index.php
+
+Admin Login details:
+Username: admin
+Password: Password1
+
+User Login details:
+Email: bfin@gmail.com
+Password: Bob12
